@@ -6,17 +6,17 @@
 
 下载一个maven安装包，解压：
 
-![1682175358849](E:\JAVA_Files\quick-monomer\assets\1682175358849.png)
+![1682175358849](assets\1682175358849.png)
 
 
 
 找到setting.xml
 
-![1682175372983](E:\JAVA_Files\quick-monomer\assets\1682175372983.png)
+![1682175372983](assets\1682175372983.png)
 
 修改仓库路径
 
-![1682175391233](E:\JAVA_Files\quick-monomer\assets\1682175391233.png)
+![1682175391233](assets\1682175391233.png)
 
 添加阿里云的镜像仓库
 
