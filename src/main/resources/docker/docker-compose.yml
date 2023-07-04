@@ -1,0 +1,9 @@
+version: '2'
+services:
+  bajie:
+    image: quick-monomer:1.0
+    container_name: quick-monomer
+    ports:
+      - 8888:8888
+    volumes:
+      - /home/ubuntu/server_data/bajie:/var/lib/bajie #数据文件挂载
